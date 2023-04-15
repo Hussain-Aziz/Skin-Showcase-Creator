@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{902d1f93-4a61-45cc-a506-d54da93e0042}</ProjectGuid>
-    <RootNamespace>SkinShowcaseCreator</RootNamespace>
+    <RootNamespace>SubImageCreator</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -128,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="SkinShowcaseCreator.cpp" />
+    <ClCompile Include="SubImageCreator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Locations.h" />

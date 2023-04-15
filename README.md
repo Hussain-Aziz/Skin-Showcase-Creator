@@ -1,2 +1,2 @@
-# Skin Showcase Creator
-Crops specific images from hollow knight skins and outputs them to a folder to showcase the skin
+# Sub Image Creator
+Crops specific images from a larger image and outputs them to a folder
